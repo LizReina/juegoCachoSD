@@ -1,4 +1,4 @@
-usuarios logueados
+usuarios registrados
 
 user: liz password: 123 
 
