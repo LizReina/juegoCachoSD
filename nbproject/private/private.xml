@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/formularios/Login.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/servidor/Despachador.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/servidor/eventos/Cliente.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/formularios/DespachadorCliente.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/formularios/tareaLeerComandoCliente.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/formularios/MarcadorCacho.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/servidor/eventos/EventoCliente.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/formularios/JuegoF.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/servidor/escuchadores/EscuchadorMensajes.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/formularios/ClienteDatos.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/servidor/hilos/TareaLeerComando.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/formularios/Cliente.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/formularios/ReglasJuego.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/servidor/ServidorSocket.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/formularios/EscuchadorMensajes.java</file>
+            <file>file:/D:/instaladas%20liz/SDistribuidos/JuegoCacho/ServidorTCP_V3/src/formularios/Dado.java</file>
+        </group>
+    </open-files>
+</project-private>
